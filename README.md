@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Passionate iOS Developer from Czech 🇨🇿. Casual Gamer. Fan of fantasy, sci-fi and comic books.
+
+Currently working [@nextap](https://github.com/nextap-solutions) as an iOS dev / Mobile Ops
+
 <!--
 **radeknovis/radeknovis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
