@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am Passionate iOS Developer from Czech 🇨🇿. Casual Gamer. Fan of fantasy, sci-fi and comic books.
+I am an experienced iOS developer from Czech 🇨🇿 with 7+ years of experience, I am skilled in Swift, both UIKit and SwiftUI, and other iOS frameworks. Additionally, I have experience in other mobile technologies, including Flutter, allowing me to create cross-platform apps. Furthermore, I have contributed to the development of Node.js microservices (BFFs as in Backend for frontend), demonstrating my ability to work with back-end technologies. I excel at collaborating with cross-functional teams to deliver high-quality software products and continuously stay up-to-date with the latest mobile technologies.
 
-~~Currently working [@nextap](https://github.com/nextap-solutions) as an iOS dev / Mobile Ops~~
+~~Currently working [@ustwo](https://github.com/ustwo) as a Senior iOS dev~~
 
-Currently working [@ustwo](https://github.com/ustwo) as a Senior iOS dev
+Currently working [@nextap](https://github.com/nextap-solutions) as an Senior iOS Developer
+
 
 <!--
 **radeknovis/radeknovis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
